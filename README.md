@@ -1,2 +1,2 @@
 # quantum
-navigating through quantum computing and quantum ml
+navigating through quantum computing and quantum ml.
